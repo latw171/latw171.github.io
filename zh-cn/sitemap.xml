@@ -21,6 +21,8 @@
     <loc>https://latw171.github.io/zh-cn/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://latw171.github.io/zh-cn/p/</loc>
+  </url><url>
     <loc>https://latw171.github.io/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -32,6 +34,8 @@
                 hreflang="zh-cn"
                 href="https://latw171.github.io/zh-cn/categories/"
                 />
+  </url><url>
+    <loc>https://latw171.github.io/zh-cn/post/</loc>
   </url><url>
     <loc>https://latw171.github.io/zh-cn/tags/</loc>
     <xhtml:link
