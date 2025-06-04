@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://latw171.github.io/p/</loc>
+  </url><url>
     <loc>https://latw171.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -13,6 +15,8 @@
                 hreflang="en"
                 href="https://latw171.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://latw171.github.io/post/</loc>
   </url><url>
     <loc>https://latw171.github.io/tags/</loc>
     <xhtml:link
